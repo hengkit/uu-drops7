@@ -33,6 +33,7 @@ $theme = 'uutheme';
 theme_enable(array('zen'));
 theme_enable(array($theme));
 variable_set('theme_default', $theme);
+variable_set('admin_theme', 'seven');
 
 // Set the Bartik or Garland logo to be Panopoly's logo
 //  if ($theme == 'bartik' || $theme == 'garland' || $theme == 'responsive_bartik') {

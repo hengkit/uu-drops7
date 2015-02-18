@@ -31,6 +31,7 @@ dependencies[] = feeds
 dependencies[] = job_scheduler
 dependencies[] = strongarm
 dependencies[] = views
+dependencies[] = views_ui
 
 ;dependencies[] = apachesolr
 ;dependencies[] = apachesolr_search
