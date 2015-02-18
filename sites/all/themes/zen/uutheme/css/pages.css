@@ -64,6 +64,8 @@ div#site-name /* The name of the website */ {
   margin: 0;
   font-size: 2em;
   line-height: 1.5em;
+  padding-top:20px;
+  padding-left:20px;
 }
 
 #site-name a:link,
