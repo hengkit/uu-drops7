@@ -5,6 +5,6 @@
  *
  */
 function uniqu_install() {
-  include_once DRUPAL_ROOT . '/profiles/standard/pantheon.install';
-  pantheon_install();
+  include_once DRUPAL_ROOT . '/profiles/standard/standard.install';
+  standard_install();
 }
