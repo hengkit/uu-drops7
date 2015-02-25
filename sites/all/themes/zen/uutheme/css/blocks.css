@@ -69,6 +69,7 @@ h2.block-title /* Block title */ {
 }
 
 #block-search-form /* "Search form" block */ {
+  display:none;
 }
 
 #block-shortcut-shortcuts /* "Shortcuts" block */ {
@@ -84,6 +85,7 @@ h2.block-title /* Block title */ {
 }
 
 #block-system-navigation /* "Navigation" block for Drupal navigation menu */ {
+  display:none;
 }
 
 #block-system-user-menu /* "User menu" block for Drupal user menu */ {
