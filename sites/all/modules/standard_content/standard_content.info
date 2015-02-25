@@ -39,6 +39,7 @@ features[variable][] = menu_parent_splash_image
 features[variable][] = node_options_splash_image
 features[variable][] = node_preview_splash_image
 features[variable][] = node_submitted_splash_image
+features[variable][] = site_frontpage
 features[views_view][] = solo_front_page
 features_exclude[dependencies][ctools] = ctools
 features_exclude[dependencies][features] = features

@@ -82,8 +82,8 @@ stylesheets-conditional[lte IE 6][all][]  = css/ie6.css
 ;   <?php print $header_top; ?>
 
 regions[help]           = Help
-;regions[sidebar_first]  = First sidebar
-;regions[sidebar_second] = Second sidebar
+regions[sidebar_first]  = First sidebar
+regions[sidebar_second] = Second sidebar
 regions[navigation]     = Navigation bar
 regions[highlighted]    = Highlighted
 regions[content]        = Content

@@ -20,6 +20,7 @@ function standard_content_content_menu_links_defaults() {
       'attributes' => array(
         'title' => '',
       ),
+      'identifier' => 'main-menu_news--events:<front>',
     ),
     'module' => 'menu',
     'hidden' => 0,
