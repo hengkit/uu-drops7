@@ -4,7 +4,9 @@
  */
 
 
-div.views-field.views-field-field-image-source {
-  padding-left:10px;
-  padding-right:10px;
+div.views-field.views-field-field-image-source .field-content{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+
 }

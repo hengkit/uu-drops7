@@ -48,7 +48,7 @@ body {
 
 #logo /* Wrapping link for logo */ {
   float: left; /* LTR */
-  margin: 10px;
+  margin: 0;
   padding: 0;
 }
 
@@ -67,12 +67,11 @@ div#site-name /* The name of the website */ {
   line-height: 1.5em;
   padding-top:20px;
   padding-left:20px;
-  color:white;
 }
 
 #site-name a:link,
 #site-name a:visited {
-  color: white;
+  color: #000;
   text-decoration: none;
 }
 

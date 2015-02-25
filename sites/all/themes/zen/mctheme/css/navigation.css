@@ -16,14 +16,12 @@ li a.active {
  */
 #navigation {
   /* overflow: hidden; /* Sometimes you want to prevent overlapping with main div. */
-  font-family: "adobe-caslon-pro",Georgia,serif;
-  font-size:12pt;
 }
 
 #navigation ul.links, /* Main menu and secondary menu links */
 #navigation .content ul /* Menu block links */ {
   margin: 0;
-  padding: 10px;
+  padding: 0;
   text-align: left; /* LTR */
 }
 
@@ -42,7 +40,6 @@ li a.active {
  * Main menu and Secondary menu links
  */
 #main-menu {
-  background-color:whitesmoke;
 }
 
 #secondary-menu {

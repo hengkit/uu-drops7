@@ -1,0 +1,10 @@
+/**
+ * @file
+ * Views Styling
+ */
+
+
+div.views-field.views-field-field-image-source {
+  padding-left:10px;
+  padding-right:10px;
+}
