@@ -1,6 +1,6 @@
 ; $Id$
-name = Unique University
-description = Install with Unique University's default profile
+name = University of Virginia
+description = Install with the University's default profile
 version = VERSION
 core = 7.x
 dependencies[] = block
