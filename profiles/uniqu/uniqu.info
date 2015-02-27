@@ -1,5 +1,5 @@
 ; $Id$
-name = University of Virginia
+name = The University Profile
 description = Install with the University's default profile
 version = VERSION
 core = 7.x
