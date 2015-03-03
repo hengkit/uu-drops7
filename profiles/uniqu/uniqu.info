@@ -33,7 +33,7 @@ dependencies[] = strongarm
 dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = imagemagick
-dependencies[] = standard_content
+;dependencies[] = standard_content
 
 ;dependencies[] = apachesolr
 ;dependencies[] = apachesolr_search
