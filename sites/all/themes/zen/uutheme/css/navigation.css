@@ -8,7 +8,7 @@
  * The active item in a Drupal menu
  */
 li a.active {
-  color: #000;
+  color: #ffffff;
 }
 
 /*
@@ -42,7 +42,7 @@ li a.active {
  * Main menu and Secondary menu links
  */
 #main-menu {
-  background-color:whitesmoke;
+  background-color:#600504;
 }
 
 #secondary-menu {
