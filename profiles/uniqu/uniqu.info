@@ -1,6 +1,6 @@
 ; $Id$
-name = The University Profile
-description = Install with the University's default profile
+name = The Agency Profile
+description = Install with the Agency's default profile
 version = VERSION
 core = 7.x
 dependencies[] = block
