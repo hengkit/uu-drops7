@@ -1,6 +1,6 @@
 ; $Id$
-name = The Agency Profile
-description = Install with the Agency's default profile
+name = The ADOA Profile
+description = Install with the ADOA's default profile
 version = VERSION
 core = 7.x
 dependencies[] = block

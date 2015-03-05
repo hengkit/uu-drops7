@@ -25,7 +25,7 @@ function uniqu_configure() {
   );
   variable_set('search_active_modules', $search_active_modules);
   variable_set('search_default_module', 'apachesolr_search');
-  drupal_set_message(t(' Defaults configured.'));
+  drupal_set_message(t('ADOA Defaults configured.'));
 
   // theme enable
 
