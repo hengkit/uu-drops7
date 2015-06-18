@@ -11,17 +11,17 @@
 
 
 body {
-  background: url("/sites/all/themes/zen/uutheme/images/background_1.jpg");
+  /*background: url("/sites/all/themes/zen/uutheme/images/background_1.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center center;
   background-clip: border-box;
   background-origin: padding-box;
-  background-size: cover;
+  background-size: cover;*/
 }
 
 #page-wrapper {
-  background-color:whitesmoke; */
+  background-color:whitesmoke;
 }
 
 #page {
@@ -29,7 +29,7 @@ body {
 }
 
 #header {
-  background-color:#600504;
+  background-color:black;
 }
 
 #header .section {
