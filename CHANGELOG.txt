@@ -1,4 +1,6 @@
 
+
+
 Drupal 7.38, 2015-06-17
 -----------------------
 - Fixed security issues (multiple vulnerabilities). See SA-CORE-2015-002.
@@ -87,7 +89,7 @@ Drupal 7.35, 2015-03-18
 
 Drupal 7.34, 2014-11-19
 ----------------------
-- Fixed security issues (multiple vulnerabilities). See SA-CORE-2014-006.  
+- Fixed security issues (multiple vulnerabilities). See SA-CORE-2014-006.
 
 Drupal 7.33, 2014-11-07
 -----------------------
