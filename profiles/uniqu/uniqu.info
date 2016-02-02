@@ -1,6 +1,6 @@
 ; $Id$
-name = The ADOA Profile
-description = Install with the ADOA's default profile
+name = The Faber College Profile
+description = Install with Faber College's default profile
 version = VERSION
 core = 7.x
 dependencies[] = block
